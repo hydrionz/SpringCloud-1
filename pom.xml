@@ -12,15 +12,10 @@
     <description>Demo project for Spring Cloud</description>
 
     <modules>
-        <module>auth</module>
-        <module>center</module>
-        <module>common</module>
-        <module>gateway</module>
-        <module>webapps</module>
-        <module>monitor</module>
-        <module>sysadmin</module>
-        <module>demos</module>
-        <module>facade</module>
+        <module>opensabre-framework</module>
+        <module>base-authorization</module>
+        <module>base-organization</module>
+        <module>base-gateway</module>
     </modules>
 
     <profiles>
