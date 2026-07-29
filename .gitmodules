@@ -16,3 +16,6 @@
 [submodule "docs"]
 	path = docs
 	url = https://github.com/opensabre/docs.git
+[submodule "base-gateway-admin"]
+	path = base-gateway-admin
+	url = https://github.com/opensabre/base-gateway-admin.git
